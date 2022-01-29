@@ -1,0 +1,23 @@
+{
+ 'greet':'Cool! Go ahead.',
+       'help':'I am here to help you with your emotions and thought process.',
+       
+       'yes': 'Tell me more about it.',
+       'happy':'What makes you happy?',
+       'good':'What makes you feel good?',
+       'bad':'What makes you feel bad?',
+       'sick':'What makes you sick?',
+       'healthy':'What makes you feel healthy?',
+       'worst':'Does anything ever make you feel the worst?',
+       'unhealthy':'Tell me about things that make you feel unhealthy?',
+       'best':'What makes you feel the best?',
+       'discourage':'How is your attitude? Is it Positive or Negative?',
+       'motiveless':'What kind of attitude do you have? Is it Positive or Negative?',
+       'positive':'Tell me about positive things.',
+       'negative':'Can you talk to me about negative emotions?',
+       'support':'Do you feel you have support?',
+       'grateful':'Gratitude is important. Can you tell me about something you are grateful for?',
+       'appreciate':'Being appreciative is a powerful emotion. Do you have something in your life to be grateful for.',
+       'fallback':'I didn\'t quite understand. Can you rephrase it?',
+
+}

@@ -1,0 +1,14 @@
+{
+    r'\b[i|I] am (.*)\b':["Why do you think you are {0}?"]  ,
+    r'\b[i|I] need(.*)\b':["Why do you need {0}?"] ,
+    r'\b[i|I] feel(.*)\b':["How often do you feel {0}?"],
+    r'\b[i|I] do not (.*)\b':["Would it really help if you {0}?"],
+    r'\b[i|I] remember(.*)\b':["Why do you remember {0}?"],
+    r'\b[i|I] know(.*)\b':["How do you know {0}?"],
+    r'\b[i|I] like to (.*)\b':["From when did you start liking to {0}?"],
+    r'\b[i|I] hate to (.*)\b':["Why do you hate to be {0}?"],
+    r'\b[i|I] crave to (.*)\b':["Why do you crave to {0}?"],
+    r'\b[i|I] dream (.*)\b':["Why do you dream of {0}?"],
+    r'\b[i|I] love (.*)\b':["Why do you love {0}?"],
+  
+}

@@ -1,0 +1,10 @@
+capture_expression,insertion,response_template,desired_pos,prune_position_offset
+s_vbz_dt:{<VBZ><DT>},1,"Expand on your statement, ""XXYYMM""?",DT,0
+v_dt:{<VB.?><DT>},1,"What is important about being ""XXYYMM""?",DT,0
+s_v_vbg:{<PR.?><VB.?><VBG>},1,"What does ""XXYYMM"" mean to you?",VBG,0
+vbg_rbjj:{<VBG><RB.?|JJ.?>},1,"Is ""XXYYMM"" important to you",VBG,0
+s_v_rbjj_to:{<PR.?><VB.?><RB.?|JJ.?>+<TO>},0,Do you often feel it's,RB.?|JJ.?,0
+s_v_rbjj:{<PR.?><VB.?><RB.?|JJ.?>+},0,Why do you feel,VB.?,1
+in_catch:{<IN>},1,"Tell me more about your statement ""XXYYMM"".",IN,1
+s_jjrb_v:{<PR.?><JJ.?|RB.?>*<VB.?>},0,Can you expand on why you,VB.?,0
+poss:{<PRP\$><NN>},1,"Tell me more about your statement, ""XXYYMM"".",PRP\$,0
